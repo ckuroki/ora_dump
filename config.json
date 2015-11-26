@@ -1,0 +1,12 @@
+[
+{
+ "Db": "PROD",
+ "Url": "system@127.0.0.1:1521/PROD",
+ "Env": ["NLS_LANG","AMERICAN_AMERICA.UTF8"],
+ "Owner": ["SCOTT"],
+ "ObjType": ["PROCEDURE"],
+ "ObjName":[],
+ "Where": ""
+}
+]
+
